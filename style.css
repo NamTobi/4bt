@@ -1,0 +1,25 @@
+{padding: 0;margin: 0;}
+.container{height: 100vh;
+            width: 100vw;
+            color:#c46f6fe0 ;
+            background: #ffd1d1 ;
+            text-align: center}
+.love, .yes, .no{ 
+    padding-top: 15%;
+}
+.love span{color:rgba(255, 0, 0, 0.89)}
+.love a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+}
+#No{color: red;}
+#Yes{color: green;}
+img{height: 60px; width: 60px}
+#button{
+    top: 150px;
+    right: 200px;
+}
+
